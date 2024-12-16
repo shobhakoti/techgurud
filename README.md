@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFkNjVmNWZkOWZiZmZmY2I3ZjIxN2RmYmIzZmIyNGE5NDQxNWZiOSZjdD1z/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dharamrajafzalpurkar/">
+  <a href="https://www.linkedin.com/in/shobha-koti-9447129b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -33,7 +33,7 @@ I am a Test Automation Engineer <img src="https://media.giphy.com/media/v1.Y2lkP
 - :telescope: I’m working as a QA Manager and contributing to frameworks designed to test web and mobile applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I explore new automation tools and solve problems on Linkedin community groups, stackoverflow and read tech articles.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dharamraj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharamrajafzalpurkar/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dharamraj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shobha-koti-9447129b/)
 
 __________________________________________________________________________________________________________________________________________________________________
 
